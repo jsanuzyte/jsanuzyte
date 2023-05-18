@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jogintė</h1>
 <h3 align="center">I'm currently changing career paths to Data Analytics</h3>
 
-- 🔭 I’m currently searching for **a job as junior Data Analyst**
+- 🔭 I’m searching for **a job as junior Data Analyst**
 
 - 🌱 I’m currently learning **data analysis skills at Turing College**
 
