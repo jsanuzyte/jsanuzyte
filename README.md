@@ -1,3 +1,4 @@
+[![MasterHead](https://en.pimg.jp/044/341/627/1/44341627.jpg)]
 <h1 align="center">Hi 👋, I'm Jogintė</h1>
 <h3 align="center">I'm currently changing career paths to Data Analytics</h3>
 
