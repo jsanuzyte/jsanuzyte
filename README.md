@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data analysis skills at Turing College**
 
-- 📄 Skills - SQL, Looker Studio/Google Data Studio, Excel, Google Sheets
+- 📄 Skills - **SQL, Looker Studio/Google Data Studio, Excel, Google Sheets**
 
 - 📫 How to reach me **joginte@gmail.com**
 
